@@ -1,0 +1,38 @@
+.ind-title,
+.title {
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: orange;
+
+}
+
+.ind-sub {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.ind-sub,
+.ind-title{
+    text-align: center;
+  }
+  
+ul.list {
+    text-align: left;
+    list-style-type: square;
+  }
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.para, ul.list {
+    margin-left: 3%;
+}
+
+ul.ind-list {
+    list-style-type: none;
+    text-align: center;
+}
